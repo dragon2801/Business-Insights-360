@@ -1,4 +1,4 @@
-Live Dasboard (https://app.powerbi.com/view?r=eyJrIjoiMzdhOTNmMDAtN2IwMy00OGE1LWJlZDUtOGNlY2Y5Mjc0MWUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+_[Live Dasboard](https://app.powerbi.com/view?r=eyJrIjoiMzdhOTNmMDAtN2IwMy00OGE1LWJlZDUtOGNlY2Y5Mjc0MWUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Business-Insights-360
 To tackle AtliQ Hardware's urgent need for actionable insights, I developed a dynamic Business Dashboard using Power BI. This comprehensive tool consolidates analytics from finance, marketing, supply chain, and sales, empowering the fast-growing electronics company to make informed decisions and strategically navigate its challenges in the Latin American market.
