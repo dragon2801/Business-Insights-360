@@ -4,6 +4,7 @@ Live Dasboard (https://app.powerbi.com/view?r=eyJrIjoiMzdhOTNmMDAtN2IwMy00OGE1LW
 To tackle AtliQ Hardware's urgent need for actionable insights, I developed a dynamic Business Dashboard using Power BI. This comprehensive tool consolidates analytics from finance, marketing, supply chain, and sales, empowering the fast-growing electronics company to make informed decisions and strategically navigate its challenges in the Latin American market.
 
 Project Overview :-
+
 AtliQ Hardware, a leading player in consumer electronics, faced significant hurdles due to its reliance on Excel for data management. This created inefficiencies and limited visibility into performance metrics across departments. My goal was to design a unified Power BI report that would integrate insights for stakeholders, facilitating real-time data analysis and strategic planning.
 
 Dashboard Features
